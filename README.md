@@ -15,10 +15,10 @@ matching fails on almost every word. Quotations in sermons, articles and posts o
 ## Install
 
 ```bash
-pip install git+https://github.com/NasserWasfiBaBreak/quran-text-tools
+pip install quran-text-tools
 ```
 
-(A PyPI release is coming.)
+Or the latest code: `pip install git+https://github.com/NasserWasfiBaBreak/quran-text-tools`
 
 Python 3.9+, no dependencies.
 

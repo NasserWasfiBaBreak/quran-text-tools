@@ -20,6 +20,8 @@ classifiers = [
 
 [project.urls]
 Homepage = "https://quranicatlas.com"
+Source = "https://github.com/NasserWasfiBaBreak/quran-text-tools"
+Issues = "https://github.com/NasserWasfiBaBreak/quran-text-tools/issues"
 
 [tool.setuptools.packages.find]
 where = ["src"]
